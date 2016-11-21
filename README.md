@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ t] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 - 1.permanent storage to store the bills with date in a tableview and they can delete the bill at will.
 - 2.change currency with a single touch of the currency sign
 - 3.users can customize their own tips percentage use UIalert
